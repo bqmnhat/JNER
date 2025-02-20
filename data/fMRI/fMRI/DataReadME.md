@@ -1,0 +1,1 @@
+This is folder is where all the nifty preprocessed BOLD images located
