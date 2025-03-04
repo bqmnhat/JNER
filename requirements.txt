@@ -1,0 +1,10 @@
+nilearn
+glob2
+scikit-learn
+numpy
+pathlib
+torch
+torch-geometric
+matplotlib
+jupyter
+ipywidgets
