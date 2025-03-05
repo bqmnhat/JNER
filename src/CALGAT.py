@@ -407,10 +407,6 @@ def evaluate_cal_gat(model, loader, device, num_classes):
     return total_loss / len(loader.dataset), accuracy, all_preds, all_labels
 
 
-# ------------------------------------------------------------------------
-# Main execution
-# ------------------------------------------------------------------------
-
 def main():
     # Set random seed for reproducibility
     torch.manual_seed(42)
